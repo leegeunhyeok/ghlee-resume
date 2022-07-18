@@ -1,0 +1,94 @@
+{
+  "publicPath": "/dist",
+  "app": {
+    "name": "Résume",
+    "startUrl": "/"
+  },
+  "title": "Résume | Geunhyeok LEE",
+  "ga": "UA-156696575-2",
+  "introText": ["For better", "Web experience."],
+  "profile": {
+    "name": "Geunhyeok LEE",
+    "email": "dev.ghlee@gmail.com",
+    "photo": "avatar.png",
+    "introduce": "Makes web better",
+    "social": [
+      {
+        "icon": "github",
+        "label": "leegeunhyeok",
+        "url": "https://github.com/leegeunhyeok"
+      },
+      {
+        "icon": "web",
+        "label": "Blog",
+        "url": "https://geundung.dev"
+      },
+      {
+        "icon": "linkedin",
+        "label": "Geunhyeok LEE",
+        "url": "https://www.linkedin.com/in/geunhyeok-lee-89b779185"
+      },
+      {
+        "icon": "instagram",
+        "label": "@__dev.ghlee",
+        "url": "https://www.instagram.com/__dev.ghlee"
+      },
+      {
+        "icon": "facebook",
+        "label": "leegeunhyeok",
+        "url": "https://www.facebook.com/leegeunhyeok"
+      }
+    ],
+    "skill": [
+      {
+        "label": "JavaScript",
+        "color": "js"
+      },
+      {
+        "label": "TypeScript",
+        "color": "ts"
+      },
+      {
+        "label": "Python",
+        "color": "python"
+      },
+      {
+        "label": "Vue.js",
+        "color": "vue"
+      },
+      {
+        "label": "React",
+        "color": "react"
+      },
+      {
+        "label": "Node.js",
+        "color": "node"
+      },
+      {
+        "label": "Webpack",
+        "color": "objectivec"
+      },
+      {
+        "label": "Rollup",
+        "color": "#ec483f"
+      },
+      {
+        "label": "SCSS",
+        "color": "scss"
+      },
+      {
+        "label": "Git",
+        "color": "git"
+      },
+      {
+        "label": "Docker",
+        "color": "docker"
+      },
+      {
+        "label": "Linux",
+        "color": "gray"
+      }
+    ],
+    "hobby": ["프로그래밍", "운동"]
+  }
+}

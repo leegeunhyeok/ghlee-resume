@@ -1,0 +1,80 @@
+{
+  "tags": {
+    "type": [
+      {
+        "id": "comp",
+        "color": "pwa",
+        "label": "Company"
+      },
+      {
+        "id": "career",
+        "color": "ts",
+        "label": "Career"
+      },
+      {
+        "id": "cert",
+        "color": "#ff6347",
+        "label": "Certification"
+      },
+      {
+        "id": "edu",
+        "color": "vue",
+        "label": "Education"
+      },
+      {
+        "id": "pub",
+        "color": "js",
+        "label": "Publication"
+      }
+    ]
+  },
+  "content": [
+    {
+      "title": "SNS 앱 예제로 배우는 프로그레시브 웹 앱",
+      "from": "2020.07",
+      "tag": "pub"
+    },
+    {
+      "title": "제 1회 오픈인프라 경진대회 - 동상",
+      "from": "2019.07",
+      "tag": "career"
+    },
+    {
+      "title": "리눅스마스터 2급",
+      "from": "2018.12",
+      "tag": "cert"
+    },
+    {
+      "title": "제 3회 전국 고등학교 동아리 소프트웨어 경진대회 - 은상",
+      "from": "2018.11",
+      "tag": "career"
+    },
+    {
+      "title": "제 18회 경기도 상업경진대회 (알고리즘 부문) - 동상",
+      "from": "2018.05",
+      "tag": "career"
+    },
+    {
+      "title": "클래스팅",
+      "from": "2021.04",
+      "tag": "comp"
+    },
+    {
+      "title": "아임클라우드",
+      "from": "2019.02",
+      "to": "2021.04"
+      "tag": "comp"
+    },
+    {
+      "title": "정보처리기능사",
+      "from": "2017.07",
+      "tag": "cert"
+    },
+    {
+      "title": "광명경영회계고등학교",
+      "from": "2016.03",
+      "to": "2019.02",
+      "tag": "edu"
+    }
+  ]
+}
